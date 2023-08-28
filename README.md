@@ -62,6 +62,5 @@ Recursion is a powerful technique in programming that allows for elegant solutio
 
 Feel free to contribute to this repository by adding more examples, explanations, and best practices related to recursion in Java. Your contributions are greatly appreciated!
 
-**Author:** Your Name
-**Contact:** your.email@example.com
-**Date:** Month Day, Year
+**Author:** Ritesh Sankritya
+**Contact:** sankrityaritesh10@outlook.com
